@@ -2,7 +2,15 @@
 .skp_info
 video
 quiz
-lab
 text
 compiled
 prof_gray
+.DS_Store
+lab/lab_2
+lab/lab_3
+lab/lab_4
+lab/lab_5
+lab/lab_6
+lab/lab_7
+lab/lab_8
+lab/lab_9
